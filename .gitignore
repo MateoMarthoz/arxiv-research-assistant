@@ -1,0 +1,28 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directory
+.venv/
+venv/
+.env
+__pycache__
+LLMvenv/
+.DS_Store
+
+# Ignore Gradio temporary files and logs
+.gradio/
+
+# Ignore IDE/editor config files (optional)
+.vscode/
+.idea/
+*.swp
+
+# Ignore environment variables or credentials (if you use them)
+.env
+
+.gjwenv/
+.gjwenv
+gjwenv
+gjwenv/
+
