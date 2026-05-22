@@ -1,5 +1,7 @@
 # Research Assistant LLM Chatbot
 
+*April 2025*
+
 An LLM-powered research assistant that discovers academic papers, ingests PDF content, and answers questions grounded in that material—not generic web knowledge.
 
 ## Problem and motivation
